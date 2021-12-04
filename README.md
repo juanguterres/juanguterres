@@ -1,6 +1,7 @@
 ## Olá, Eu sou Juan Guterres
 
 - 🔭 Estou começando minha jornada na programação!
+- 📖 Estou atualmente cursando faculdade de Análise e desenvolvimento de sistemas!
 - 🌱 Estou iniciando/estudando JavaScript...
 <div>
   <a href-"https://github.com/juanguterres">
