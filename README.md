@@ -2,7 +2,8 @@
 
 - 🔭 Estou começando minha jornada na programação!
 - 📖 Estou atualmente cursando faculdade de Análise e desenvolvimento de sistemas!
-- 🌱 Estou iniciando/estudando JavaScript...
+- 🏁 Tenho objetivo de me tornar um desenvolvedor Full-Stack
+- 🌱 Tenho conhecimentos de JavaScript, HTML, CSS e tenho me focado atualmente em Java e Orientação a Objetos.
 <div>
   <a href-"https://github.com/juanguterres">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juanguterres&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
