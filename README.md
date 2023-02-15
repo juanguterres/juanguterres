@@ -1,9 +1,9 @@
 ## Olá, Eu sou Juan Guterres
 
-- 🔭 Estou começando minha jornada em desenvolvimento!
-- 📖 Estou atualmente cursando faculdade de Análise e desenvolvimento de sistemas!
+- 🔭 Estou em busca de ingressar no mercado de trabalho na área da tecnologia!
+- 📖 Estou atualmente no 3º semestre da faculdade de Análise e desenvolvimento de sistemas!
 - 🏁 Tenho objetivo de me tornar um desenvolvedor Full-Stack
-- 🌱 Tenho conhecimentos de JavaScript, HTML, CSS, banco de dados relacional e tenho me focado atualmente em Java e Orientação a Objetos.
+- 🌱 Tenho conhecimentos de JavaScript, HTML, CSS.
 <div>
   <a href-"https://github.com/juanguterres">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juanguterres&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
