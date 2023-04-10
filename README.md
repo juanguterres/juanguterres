@@ -1,7 +1,7 @@
 ## Olá, Eu sou Juan Guterres
 
 - 🔭 Estou em busca de ingressar no mercado de trabalho na área da tecnologia!
-- 📖 Estou atualmente no 3º semestre da faculdade de Análise e desenvolvimento de sistemas!
+- 📖 Estou atualmente no 4º semestre da faculdade de Análise e desenvolvimento de sistemas!
 - 🏁 Tenho objetivo de me tornar um desenvolvedor Full-Stack
 - 🌱 Tenho conhecimentos de JavaScript, HTML, CSS.
 <div>
